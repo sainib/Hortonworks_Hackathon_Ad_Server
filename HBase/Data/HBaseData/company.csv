@@ -1,0 +1,43 @@
+﻿company_id,company_category,company_name
+1,automotive,Audi
+2,automotive,BMW
+3,automotive,Chevrolet
+4,automotive,Ford
+5,automotive,Mercedes Bentz
+6,automotive,Toyota
+7,cellphone,HTC
+8,cellphone,Apple
+9,cellphone,LG
+10,cellphone,Motorola
+11,cellphone,Samsung
+12,cellphone,Sony
+13,coffee,Costa Coffee
+14,coffee,Dunkin Donuts
+15,coffee,Peets Coffee
+16,coffee,Seattle's Best Coffee
+17,coffee,Starbucks
+18,coffee,Tim Hortons
+19,fastfood,Arby's
+20,fastfood,Burger King
+21,fastfood,McDonalds
+22,fastfood,Sonic
+23,fastfood,Taco Bell
+24,fastfood,Wendy's
+25,gas,BP
+26,gas,Chevron
+27,gas,Exxon Mobil
+28,gas,Shell
+29,gas,Sunoco
+30,gas,Texaco
+31,retail,BJ's
+32,retail,Costco
+33,retail,CVS
+34,retail,Macy's
+35,retail,Neiman Marcus
+36,retail,Nordstrom
+37,luxury,Burberry
+38,luxury,Chanel
+39,luxury,Gucci
+40,luxury,Hermes
+41,luxury,Louis Vuitton
+42,luxury,Tiffany

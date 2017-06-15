@@ -1,0 +1,35 @@
+{
+ "type": "record",
+ "namespace": "adserver_name",
+ "name": "user",
+ "fields": [
+  {
+   "name": "FirstName",
+   "type": "string"
+  },
+  {
+   "name": "LastName",
+   "type": "string"
+  },
+  {
+   "name": "age",
+   "type": "string"
+  },
+  {
+   "name": "City",
+   "type": "string"
+  },
+  {
+   "name": "State",
+   "type": "string"
+  },
+  {
+   "name": "StreetAddress",
+   "type": "string"
+  },
+  {
+   "name": "streetNumber",
+   "type": "string"
+  }
+ ]
+}

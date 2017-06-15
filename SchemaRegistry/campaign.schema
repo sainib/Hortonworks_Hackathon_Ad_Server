@@ -1,0 +1,23 @@
+{
+ "type": "record",
+ "namespace": "adserver_name",
+ "name": "campaign",
+ "fields": [
+  {
+   "name": "campaign_id",
+   "type": "string"
+  },
+  {
+   "name": "company_id",
+   "type": "string"
+  },
+  {
+   "name": "campaign_url",
+   "type": "string"
+  },
+  {
+   "name": "Active",
+   "type": "string"
+  }
+ ]
+}

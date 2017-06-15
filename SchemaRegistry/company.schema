@@ -1,0 +1,19 @@
+{
+ "type": "record",
+ "namespace": "adserver_name",
+ "name": "company",
+ "fields": [
+  {
+   "name": "company_id",
+   "type": "string"
+  },
+  {
+   "name": "company_category",
+   "type": "string"
+  },
+  {
+   "name": "company_name",
+   "type": "string"
+  }
+ ]
+}
